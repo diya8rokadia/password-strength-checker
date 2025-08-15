@@ -11,7 +11,7 @@ A simple Flask web app that:
 - Mobile-friendly UI using Bootstrap.
 - JSON API for programmatic use.
 
-##Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Backend:** Python Flask
 - **API:** HaveIBeenPwned
