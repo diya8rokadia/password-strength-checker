@@ -1,4 +1,8 @@
-#Password Strength & Breach Checker
+
+## 🌐 Live Demo
+[Try it here!](https://password-strength-checker-1sip.onrender.com/)
+
+## Password Strength & Breach Checker
 
 A simple Flask web app that:
 - Checks the strength of a password.
@@ -16,14 +20,6 @@ A simple Flask web app that:
 - **Backend:** Python Flask
 - **API:** HaveIBeenPwned
 
-## Installation
-```bash
-git clone <your-repo-url>
-cd password_strength_checker
-pip install -r requirements.txt
-python app.py
-```
-Go to `http://127.0.0.1:5000` in your browser.
 
 
 ## 📜 License
